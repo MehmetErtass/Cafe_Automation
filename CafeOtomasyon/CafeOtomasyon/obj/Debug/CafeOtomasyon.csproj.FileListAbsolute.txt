@@ -1,0 +1,128 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.AnaMenu.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Giris.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Menu.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasalar.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa2.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa3.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa4.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa5.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa6.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa7.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa8.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisMasalar.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa2.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa3.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa4.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa5.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa6.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa7.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.AnaMenu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Giris.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Menu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Properties.Resources.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Baslangic.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.AnaMenu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Baslangic.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Giris.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Menu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertaş _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Resource1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.AnaMenu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Baslangic.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Giris.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Menu.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.OdemeMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Properties.Resources.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Resource1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa2.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa3.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa4.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa5.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa6.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa7.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa8.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisMasalar.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.SiparisAlMasa1.resources
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+C:\Users\ABRA\OneDrive\Masaüstü\Mehmet Ertas _2003022070 Cafe otomasyonu Projesi\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb

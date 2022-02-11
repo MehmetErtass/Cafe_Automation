@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ErtasCafeOtomasyonuModelStoreContainer" CdmEntityContainer="ErtasCafeOtomasyonuEntities1">
+    <EntitySetMapping Name="tbl_Kullanici">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Kullanici">
+        <MappingFragment StoreEntitySet="tbl_Kullanici">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="kullaniciAdi" ColumnName="kullaniciAdi" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa1">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa1">
+        <MappingFragment StoreEntitySet="tbl_Masa1">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa2">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa2">
+        <MappingFragment StoreEntitySet="tbl_Masa2">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa3">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa3">
+        <MappingFragment StoreEntitySet="tbl_Masa3">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa4">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa4">
+        <MappingFragment StoreEntitySet="tbl_Masa4">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa5">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa5">
+        <MappingFragment StoreEntitySet="tbl_Masa5">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa6">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa6">
+        <MappingFragment StoreEntitySet="tbl_Masa6">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa7">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa7">
+        <MappingFragment StoreEntitySet="tbl_Masa7">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Masa8">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Masa8">
+        <MappingFragment StoreEntitySet="tbl_Masa8">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Menu">
+      <EntityTypeMapping TypeName="ErtasCafeOtomasyonuModel.tbl_Menu">
+        <MappingFragment StoreEntitySet="tbl_Menu">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="yemekAdi" ColumnName="yemekAdi" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

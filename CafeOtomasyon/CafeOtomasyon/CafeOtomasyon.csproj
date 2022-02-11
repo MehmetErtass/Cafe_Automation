@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD3631CC-34F0-4A46-A5F0-D77692F870DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CafeOtomasyon</RootNamespace>
+    <AssemblyName>CafeOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baslangic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baslangic.Designer.cs">
+      <DependentUpon>Baslangic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa1.Designer.cs">
+      <DependentUpon>OdemeMasa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa2.Designer.cs">
+      <DependentUpon>OdemeMasa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa3.Designer.cs">
+      <DependentUpon>OdemeMasa3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa4.Designer.cs">
+      <DependentUpon>OdemeMasa4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa5.Designer.cs">
+      <DependentUpon>OdemeMasa5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa6.Designer.cs">
+      <DependentUpon>OdemeMasa6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa7.Designer.cs">
+      <DependentUpon>OdemeMasa7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasa8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasa8.Designer.cs">
+      <DependentUpon>OdemeMasa8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeMasalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMasalar.Designer.cs">
+      <DependentUpon>OdemeMasalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa2.Designer.cs">
+      <DependentUpon>SiparisAlMasa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa3.Designer.cs">
+      <DependentUpon>SiparisAlMasa3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa4.Designer.cs">
+      <DependentUpon>SiparisAlMasa4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa5.Designer.cs">
+      <DependentUpon>SiparisAlMasa5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa6.Designer.cs">
+      <DependentUpon>SiparisAlMasa6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa7.Designer.cs">
+      <DependentUpon>SiparisAlMasa7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa8.Designer.cs">
+      <DependentUpon>SiparisAlMasa8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisMasalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisMasalar.Designer.cs">
+      <DependentUpon>SiparisMasalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisAlMasa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisAlMasa1.Designer.cs">
+      <DependentUpon>SiparisAlMasa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Kullanici.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa1.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa2.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa3.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa4.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa5.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa6.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa7.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Masa8.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Menu.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baslangic.resx">
+      <DependentUpon>Baslangic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa1.resx">
+      <DependentUpon>OdemeMasa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa2.resx">
+      <DependentUpon>OdemeMasa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa3.resx">
+      <DependentUpon>OdemeMasa3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa4.resx">
+      <DependentUpon>OdemeMasa4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa5.resx">
+      <DependentUpon>OdemeMasa5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa6.resx">
+      <DependentUpon>OdemeMasa6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa7.resx">
+      <DependentUpon>OdemeMasa7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasa8.resx">
+      <DependentUpon>OdemeMasa8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMasalar.resx">
+      <DependentUpon>OdemeMasalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa2.resx">
+      <DependentUpon>SiparisAlMasa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa3.resx">
+      <DependentUpon>SiparisAlMasa3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa4.resx">
+      <DependentUpon>SiparisAlMasa4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa5.resx">
+      <DependentUpon>SiparisAlMasa5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa6.resx">
+      <DependentUpon>SiparisAlMasa6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa7.resx">
+      <DependentUpon>SiparisAlMasa7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa8.resx">
+      <DependentUpon>SiparisAlMasa8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisMasalar.resx">
+      <DependentUpon>SiparisMasalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisAlMasa1.resx">
+      <DependentUpon>SiparisAlMasa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="Resources\+ isareti.png" />
+    <None Include="Resources\1-adet-rengarenk-hosgeldiniz-yazisi-parti-susu-kc907021-1-aadf5bb312f04769a384b8f8c5bd9fdd.jpg" />
+    <Content Include="Resources\Background1.jpg" />
+    <Content Include="Resources\delete-icon.png" />
+    <Content Include="Resources\delete-icon1 - Kopya.png" />
+    <Content Include="Resources\delete-icon1.png" />
+    <Content Include="Resources\Dollar-icon.png" />
+    <Content Include="Resources\Dollar-icon1.png" />
+    <Content Include="Resources\Dollar-icon2.png" />
+    <Content Include="Resources\Dollar-icon3.png" />
+    <Content Include="Resources\Dollar-icon4.png" />
+    <Content Include="Resources\Dollar-icon5.png" />
+    <Content Include="Resources\Dollar-icon6.png" />
+    <Content Include="Resources\Dollar-icon7.png" />
+    <Content Include="Resources\fork-and-knife-with-plate-icon - Kopya.png" />
+    <Content Include="Resources\fork-and-knife-with-plate-icon.png" />
+    <Content Include="Resources\hosgeldinizz.jpg" />
+    <None Include="Resources\Image1.png" />
+    <Content Include="Resources\Lock-icon.png" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\logo1.png" />
+    <Content Include="Resources\Masa.png" />
+    <Content Include="Resources\Masa1.png" />
+    <Content Include="Resources\Masa10.png" />
+    <Content Include="Resources\Masa11.png" />
+    <Content Include="Resources\Masa12.png" />
+    <Content Include="Resources\Masa13.png" />
+    <Content Include="Resources\Masa14.png" />
+    <Content Include="Resources\Masa15.png" />
+    <Content Include="Resources\Masa2.png" />
+    <Content Include="Resources\Masa3.png" />
+    <Content Include="Resources\Masa4.png" />
+    <Content Include="Resources\Masa5.png" />
+    <Content Include="Resources\Masa6.png" />
+    <Content Include="Resources\Masa7.png" />
+    <Content Include="Resources\Masa8.png" />
+    <Content Include="Resources\Masa9.png" />
+    <Content Include="Resources\register_2_icon.png" />
+    <Content Include="Resources\restaurant-menu.png" />
+    <Content Include="Resources\Undo.png" />
+    <Content Include="Resources\welcome.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ErtasCafeOtomasyonuModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_Kullanici">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullaniciAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa2">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa3">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa4">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa5">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa6">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa7">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Masa8">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="adet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Menu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yemekAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ErtasCafeOtomasyonuEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_Kullanici" EntityType="Self.tbl_Kullanici" />
+    <EntitySet Name="tbl_Masa1" EntityType="Self.tbl_Masa1" />
+    <EntitySet Name="tbl_Masa2" EntityType="Self.tbl_Masa2" />
+    <EntitySet Name="tbl_Masa3" EntityType="Self.tbl_Masa3" />
+    <EntitySet Name="tbl_Masa4" EntityType="Self.tbl_Masa4" />
+    <EntitySet Name="tbl_Masa5" EntityType="Self.tbl_Masa5" />
+    <EntitySet Name="tbl_Masa6" EntityType="Self.tbl_Masa6" />
+    <EntitySet Name="tbl_Masa7" EntityType="Self.tbl_Masa7" />
+    <EntitySet Name="tbl_Masa8" EntityType="Self.tbl_Masa8" />
+    <EntitySet Name="tbl_Menu" EntityType="Self.tbl_Menu" />
+  </EntityContainer>
+</Schema>
