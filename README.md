@@ -1,50 +1,49 @@
 # Cafe-otomasyonu
-Proje özellikleri
+Project features
 
-1-Projede(22 Adet) Form sayfası bulunmaktadır.
+1-There are (22) Form pages in the project.
 
-2-DataBase ile veri ekleme,silme ve güncelleştirilme işlemleri yapıldı. 
+2-DataBase was used to add, delete and update data. 
 
-3- Entity Framework ve login kısımları oluşturuldu.
+3- Entity Framework and login sections were created.
 
-4-Adonet kütüphanesi ve linq kullanıldı
+4-Adonet library and linq were used
 
-5-try ve catch kısımları oluşturuldu.
+5-try and catch sections were created.
 
-5-Sınıf ve Nesne Tanımları (OOP) özellikleri kullanıldı.    
+5-Class and Object Definitions (OOP) features were used.    
 
-6-Progressbar özelliği ile beklenilen süreye göre sisteme giriş sayfası açılı kullanıldı.
+6-Progressbar feature was used to open the login page according to the expected time.
 
-7-Sisteme giriş için 3 hak tanındı . Girilmesi gereken bilgiler 3 kez yanlış girilirse uygulama kendiliğinde kapanacaktır.
+7-Three rights were granted for logging into the system. If the information to be entered is entered incorrectly 3 times, the application will close by itself.
 
-8-textbox => txt , label => lbl , buton => btn , checkbox => chk olarak , form => frm başlıyacak şekilde isimleri değiştirildi.
+8-textbox => txt, label => lbl, button => btn, checkbox => chk, form => frm were renamed to start.
 
-9- Projede tıklama imlecindeki gereken tüm ögeler “cursor” özelleği ile değiştirildi.
+9- In the project, all the required elements in the click cursor have been replaced with the "cursor" property.
 
-10-Formlarda “StartPosition” ve “AcceptButton” özelliği kullanıldı. 
+10- "StartPosition" and "AcceptButton" properties were used in forms. 
 
-10-“DateTime” tip dönüşümü ile saniye akışı sağlandı. 
+10-"DateTime" type conversion and second flow was provided. 
 
-11-“MaxLength” ve “messageBox” ile ilgili sorunları ekranda gösterimi özelliği kullanıldı.
+11-"MaxLength" and "messageBox" related problems have been displayed on the screen.
 
-12-Bazı formlarda “MaximizeBox” , “MinimumSize” , “MinimizeBox” , “MaximizeBox” özelliği kullanıldı.
+12- "MaximizeBox", "MinimumSize", "MinimizeBox", "MaximizeBox" feature was used in some forms.
 
-13- Formların açılması için “Hide()” ve “Show()” fonksiyonlarının kullanılması. 
+13- Using "Hide()" and "Show()" functions to open the forms. 
 
-14- Bazı formlarda “BackColor” , “ForeColor” özelliği ile renklendirmeler yapıldı.  
+14- Some forms were colored with "BackColor", "ForeColor" properties.  
 
-15- Birçok yerde karar yapıları kullanıldı.
+15- Decision structures were used in many places.
 
-16- Bazı formlarda “MaximizeBox” , “MinimumSize” , “MinimizeBox” ,“MaximizeBox” özelliği kullanıldı.
+16- "MaximizeBox", "MinimumSize", "MinimizeBox", "MaximizeBox" properties were used in some forms.
 
-Veritabanı Özellikleri
+Database Features
 
-1.tbl_Kullanici :
-Burada sisteme giriş yapmak için kişi bilgileri kullanılımıştır. 
+1.tbl_User :
+Person information is used here to log in to the system. 
 
-2.tbl_Masa1 / tbl_Masa2 / tbl_Masa3 / tbl_Masa4 / tbl_Masa5 / tbl_Masa6 / tbl_Masa7 / tbl_Masa8:
-Burada Masa1 e göre müşterinin cafe gelip sipariş vermek için ve hesapı isteyene kadar sipariş verdiği ürünlerin fiş üzerinde gösterilmesi için kullanılmıştır. Aşağıda olan (tbl_Masa2 / tbl_Masa3 / tbl_Masa4 / tbl_Masa5 / tbl_Masa6 / tbl_Masa7 / tbl_Masa7 ) tabloları Masa1 ile aynı özelliğe sahiptir.
+2.tbl_Table1 / tbl_Table2 / tbl_Table3 / tbl_Table4 / tbl_Table5 / tbl_Table6 / tbl_Table7 / tbl_Table8:
+Here, according to Table1, it is used to show the products ordered by the customer on the receipt until the customer comes to the cafe to order and ask for the bill. The following tables (tbl_Masa2 / tbl_Masa3 / tbl_Masa4 / tbl_Masa5 / tbl_Masa6 / tbl_Masa7 / tbl_Masa7 ) have the same feature as Table1.
 
 9.tbl_Menu:
-Burada  menüye ekleme silme güncelleme işlemleri için tablo hazırlanmıştır . id =22 olmasının nedenin daha öncesinde yapmış olduğum ekleme,silme ve güncelleme işlemlerinden dolayı başlamıştır. Bütün tablolarımda set primary key kullandım. Menüye ekleyip,silip,güncelledikten sonra bütün masalarda işlemler gözükmektedir.
-
+Here, a table has been prepared for adding, deleting and updating the menu. The reason why id =22 started because of the insertion, deletion and update operations I have done before. I used set primary key in all my tables. After adding, deleting and updating the menu, transactions appear on all tables.
