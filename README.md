@@ -17,5 +17,6 @@ Bu proje, bir cafe işletmesinin operasyonlarını yönetmek için geliştirilmi
 
 ## Ekran Görüntüleri
 
+![1](https://github.com/user-attachments/assets/15b21231-bb97-465f-ac72-e8208203f714)
 ![2](https://github.com/user-attachments/assets/d5ec80a4-c185-40ed-8839-7b29ae60ea07)
 ![3](https://github.com/user-attachments/assets/081b9d76-9d78-4360-9601-baafdbfd774f)
